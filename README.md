@@ -48,8 +48,6 @@ Welcome to my **25-Day Azure Learning Challenge**, where I dive deep into core A
 * **Summary:** Practiced and revised key questions on Azure fundamentals and networking.
 * Focused on scenario-based and concept-driven questions. Revised important terminologies and how Azure services interconnect in production environments.
 
----
-
 ## 📂 Day 9-15: Storage, CLI, IAM & DevOps Projects
 
 ### 📂 **Day 9: Azure Storage Services**
@@ -86,8 +84,6 @@ Welcome to my **25-Day Azure Learning Challenge**, where I dive deep into core A
 
 * **Summary:** Built an AKS cluster, connected CI pipeline, and implemented CD.
 * Created Kubernetes manifests, connected the CI pipeline output to deploy automatically to AKS. Handled config maps, secrets, and rolling updates.
-
----
 
 ## ☸️ Day 16-25: Kubernetes, Monitoring, Serverless, and Terraform
 
