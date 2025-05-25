@@ -48,8 +48,6 @@ Welcome to my **25-Day Azure Learning Challenge**, where I dive deep into core A
 * **Summary:** Practiced and revised key questions on Azure fundamentals and networking.
 * Focused on scenario-based and concept-driven questions. Revised important terminologies and how Azure services interconnect in production environments.
 
-## 📂 Day 9-15: Storage, CLI, IAM & DevOps Projects
-
 ### 📂 **Day 9: Azure Storage Services**
 
 * **Summary:** Understood types of Azure storage accounts and their use cases.
