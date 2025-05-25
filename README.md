@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/e01f5c5d-0493-4e7c-a277-cf783ed76e80)
 
-Welcome to my **25-Day Azure Learning Challenge**, where I dive deep into core Azure services, DevOps integration, Kubernetes, and real-world projects. This structured journey is ideal for beginners and aspiring Cloud/DevOps Engineers.
+Welcome to my **Azure Learning Challenge**, where I dive deep into core Azure services, DevOps integration, Kubernetes, and real-world projects. This structured journey is ideal for beginners and aspiring Cloud/DevOps Engineers.
 
 ---
 
@@ -82,8 +82,6 @@ Welcome to my **25-Day Azure Learning Challenge**, where I dive deep into core A
 
 * **Summary:** Built an AKS cluster, connected CI pipeline, and implemented CD.
 * Created Kubernetes manifests, connected the CI pipeline output to deploy automatically to AKS. Handled config maps, secrets, and rolling updates.
-
-## ☸️ Day 16-25: Kubernetes, Monitoring, Serverless, and Terraform
 
 ### ⚙️ **Day 16: AKS Deep Dive**
 
