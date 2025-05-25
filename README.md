@@ -1,4 +1,4 @@
-# 🚀 Azure Cloud Learning Journey (25 Days)
+# 🚀 Azure Cloud Learning Journey
 
 ![image](https://github.com/user-attachments/assets/e01f5c5d-0493-4e7c-a277-cf783ed76e80)
 
